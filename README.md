@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Marcelo Amorim | @marcelohva
+- I have more than 20 years of experience with technology. I was a Java developer and systems architect, today I work in the management area.
 - 🌱 I’m currently learning python, django, flask, pandas...
 
 <!---
